@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905778601238",
+    "project_id": "fitlife-5d02c",
+    "storage_bucket": "fitlife-5d02c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905778601238:android:2042aadf7b478ccf094437",
+        "android_client_info": {
+          "package_name": "com.np.hemant.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbKg4hwQgH1Sr0TvGyjvM8zCY0EcOCEZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
