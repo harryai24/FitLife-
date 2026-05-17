@@ -1,4 +1,4 @@
-package com.np.hemant_baduwal.application.registration.ui.theme
+package com.np.hemant_baduwal.application.ui.theme
 
 import android.app.Activity
 import android.os.Build

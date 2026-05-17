@@ -1,4 +1,4 @@
-package com.np.hemant_baduwal.application.registration.ui.theme
+package com.np.hemant_baduwal.application.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
